@@ -1,0 +1,3 @@
+PIPE 10
+WRITE abc
+READ 3

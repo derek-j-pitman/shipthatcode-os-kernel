@@ -1,0 +1,4 @@
+PIPE 10
+WRITE hello
+READ 2
+READ 10

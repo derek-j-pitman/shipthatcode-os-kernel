@@ -1,0 +1,6 @@
+INODE 1 dir
+INODE 2 dir
+INODE 3 file
+LINK 1 etc 2
+LINK 2 passwd 3
+RESOLVE /etc/passwd

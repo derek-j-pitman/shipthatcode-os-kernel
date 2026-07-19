@@ -1,0 +1,6 @@
+BASE_NS 100
+TLB_NS 1000
+SWITCH same
+SWITCH diff
+SWITCH diff
+SWITCH same

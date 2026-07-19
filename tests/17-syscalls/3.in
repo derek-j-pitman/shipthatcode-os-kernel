@@ -1,0 +1,8 @@
+REG 0 read
+REG 1 write
+REG 2 open
+CALL 0
+CALL 1
+CALL 99
+UNREG 1
+CALL 1

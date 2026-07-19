@@ -1,0 +1,4 @@
+INODE 1 dir
+INODE 2 file
+LINK 1 hello 2
+RESOLVE /hello

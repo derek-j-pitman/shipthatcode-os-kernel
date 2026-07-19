@@ -1,0 +1,7 @@
+T1 ACQ a
+T2 WAIT a
+T3 WAIT a
+T1 REL a
+T2 ACQ a
+T2 REL a
+T3 ACQ a

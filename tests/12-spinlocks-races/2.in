@@ -1,0 +1,3 @@
+T1 LOCK a
+T2 LOCK a
+T1 UNLOCK a

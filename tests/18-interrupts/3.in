@@ -1,0 +1,8 @@
+IDT 0 div_by_zero
+IDT 14 page_fault
+IDT 32 timer
+INT 0
+INT 32
+INT 99
+CLEAR 0
+INT 0
